@@ -3,12 +3,7 @@
 A Python-based network security tool designed to identify reachable hosts and open TCP ports within an authorized lab environment. The scanner runs from **PC1 on VLAN 30 (Security VLAN)** and performs TCP scans against explicitly authorized hosts and ports.
 
 ### Project Objectives
-
-* Identify reachable hosts within the authorized lab environment.
-* Identify open TCP ports on authorized systems.
-* Practice basic network reconnaissance and TCP networking.
 * Develop a Python-based security tool using socket programming.
-* Provide a foundation for future security and vulnerability reporting.
 * Improve understanding of network segmentation and VLAN-based environments.
 
 ### scanner1.py — Version 1
@@ -20,15 +15,8 @@ The first version of the project implemented a basic TCP port scanner using Pyth
 The second version improved the scanner by allowing the user to specify a starting and ending port. Instead of being limited to a fixed list of common ports, the scanner could test any TCP port range within the authorized lab environment.
 
 ### Skills Demonstrated
-
 * Python programming
-* Python `socket` library
 * TCP/IP networking
 * TCP port scanning
-* Network reconnaissance
-* IP addressing
-* VLAN and network segmentation concepts
 * Linux/Bash command-line usage
 * Git and GitHub
-* Technical documentation
-* Security-focused network testing
