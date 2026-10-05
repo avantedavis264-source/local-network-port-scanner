@@ -1,0 +1,4 @@
+Python — Primary programming language
+Python socket library — TCP network communication and port scanning
+Bash — Command-line execution and testing
+Git/GitHub — Version control and project management
